@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR education", "Assembly-CSharp.csproj", "{C01283B1-4C21-3A6A-3695-A3E1D886C9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR education", "Assembly-CSharp-Editor.csproj", "{46DFD4FA-8909-1383-5AB2-F93D76705351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01283B1-4C21-3A6A-3695-A3E1D886C9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01283B1-4C21-3A6A-3695-A3E1D886C9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01283B1-4C21-3A6A-3695-A3E1D886C9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01283B1-4C21-3A6A-3695-A3E1D886C9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DFD4FA-8909-1383-5AB2-F93D76705351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DFD4FA-8909-1383-5AB2-F93D76705351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DFD4FA-8909-1383-5AB2-F93D76705351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DFD4FA-8909-1383-5AB2-F93D76705351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
